@@ -15,9 +15,13 @@ body {
   margin: 0 auto;
 }
 
-section.intro img {
+img.portrait {
   border-radius: 50%;
   max-width: 250px;
+}
+
+section.intro img {
+  max-width: 100px;
 }
 
 section {
