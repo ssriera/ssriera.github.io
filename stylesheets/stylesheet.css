@@ -17,6 +17,7 @@ body {
 
 header img {
   border-radius: 50%;
+  max-width: 100px;
 }
 
 section {
@@ -118,7 +119,6 @@ ul li {
 }
 
 ul li:before {
-  content: ">>";
   font-family: 'Raleway', sans-serif;
   font-size: 13px;
   color: #b5e853;
