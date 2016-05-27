@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background: url("../images/symphony.png") 0 0;
-  font: 18px;
+  font: 22px;
   line-height: 1.5;
   font-family: 'Raleway', sans-serif;
 }
@@ -17,7 +17,7 @@ body {
 
 img.portrait {
   border-radius: 50%;
-  max-width: 250px;
+  max-width: 220px;
 }
 
 a img {
@@ -213,8 +213,7 @@ hr {
 */
 
 a {
-  color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  color: #3f7d91;
 }
 
 /* Clearfix */
